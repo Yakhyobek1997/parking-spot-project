@@ -1,6 +1,6 @@
 # parking-spot-project
 This system detects parking spot availability in real-time. It analyzes video frames to identify free and occupied spots. The system calculates differences between frames and uses a machine learning model for classification. Free spots are marked in green, occupied ones in red. It displays the count of available spots.
-
+(You can download datas from here https://drive.google.com/file/d/1PFrL4Bylrf8xfY4YcZSqQSAH8X5ep3p9/view?usp=drive_link )
 Parking Spot Detection System
 Description
 The Parking Spot Detection System is designed to provide real-time insights into parking spot availability by analyzing video footage. This tool is ideal for managing parking lots and garages, ensuring that users can easily determine whether parking spaces are occupied or free. The system combines video processing techniques with machine learning to deliver accurate and timely information about parking spot status.
